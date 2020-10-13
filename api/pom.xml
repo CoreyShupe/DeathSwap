@@ -14,7 +14,7 @@
     <description>API portion for the death swap mini game.</description>
 
     <properties>
-        <test.junit.version>4.13</test.junit.version>
+        <test.junit.version>4.13.1</test.junit.version>
         <test.mockito.version>1.10.19</test.mockito.version>
     </properties>
 
